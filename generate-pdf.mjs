@@ -133,7 +133,15 @@ async function generatePDF() {
     console.log(`🧹 ATS normalization: ${totalReplacements} replacements (${breakdown})`);
   }
 
-  const browser = await chromium.launch({ headless: true });
+  // Use Brave browser if available, fall back to bundled Chromium
+  const bravePath = process.env.BRAVE_PATH || 'C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe';
+  const { existsSync } = await import('fs');
+  const launchOptions = { headless: true };
+  if (existsSync(bravePath)) {
+    launchOptions.executablePath = bravePath;
+    console.log(`🦁 Using Brave browser`);
+  }
+  const browser = await chromium.launch(launchOptions);
   try {
     const page = await browser.newPage();
 

@@ -82,6 +82,12 @@ Classify every offer into one of these types (or hybrid of 2):
 | AI Solutions Architect | "architecture", "enterprise", "integration", "design", "systems" |
 | AI Forward Deployed | "client-facing", "deploy", "prototype", "fast delivery", "field" |
 | AI Transformation | "change management", "adoption", "enablement", "transformation" |
+| Data Analyst | "SQL", "Excel", "dashboards", "reporting", "insights", "Tableau", "Power BI", "business analyst" |
+| Data Engineer | "ETL", "data pipeline", "Spark", "Airflow", "dbt", "warehouse", "Snowflake", "BigQuery", "data lake" |
+| Data Scientist | "statistics", "modeling", "hypothesis", "A/B testing", "experimentation", "R", "Python", "research" |
+| ML Engineer | "model training", "deployment", "MLflow", "inference", "feature store", "production ML", "TensorFlow" |
+| BI Analyst | "dashboards", "KPIs", "Looker", "Metabase", "stakeholder reporting", "business intelligence", "MIS" |
+| Analytics Engineer | "dbt", "data modeling", "dimensional", "metrics layer", "semantic layer", "analytics engineering" |
 
 After detecting archetype, read `modes/_profile.md` for the user's specific framing and proof points for that archetype.
 
