@@ -1,0 +1,140 @@
+# Career-Ops Profile Configuration — Indian Data Roles (Fresher)
+# This is the single source of truth for your personal data across all modes.
+
+candidate:
+  full_name: "Shourya Vardhan Singh"
+  email: "[REDACTED]"  # Keep private — not for GitHub
+  phone: "[REDACTED]"  # Keep private — not for GitHub
+  location: "Chandigarh, India"
+  linkedin: "www.linkedin.com/in/shourya-vardhan-singh-1bb59515a"
+  portfolio_url: ""
+  github: "github.com/dragster56"
+  twitter: ""
+
+target_roles:
+  # North Star roles — what you're optimizing for as a fresher
+  primary:
+    - "Data Analyst"
+    - "Junior Data Analyst"
+    - "Business Intelligence Analyst"
+    - "Data Engineer"
+    - "Junior Data Scientist"
+  # Archetypes help the evaluation system score fit
+  archetypes:
+    - name: "Data Analyst"
+      level: "Entry/Junior"
+      fit: "primary"        # primary = most accessible for freshers
+    - name: "BI Analyst"
+      level: "Entry/Junior"
+      fit: "primary"
+    - name: "Data Engineer"
+      level: "Entry/Junior"
+      fit: "secondary"      # secondary = good fit, needs some ramp-up
+    - name: "Analytics Engineer"
+      level: "Entry/Junior"
+      fit: "secondary"
+    - name: "Data Scientist"
+      level: "Entry/Junior"
+      fit: "adjacent"       # adjacent = stretch, competitive for freshers
+    - name: "ML Engineer"
+      level: "Entry/Junior"
+      fit: "adjacent"
+
+  # Core tools and skills — used for JD matching
+  tools:
+    - "SQL"
+    - "Python"
+    - "pandas"
+    - "NumPy"
+    - "scikit-learn"
+    - "Power BI"
+    - "Tableau"
+    - "Excel"
+    - "dbt"
+    - "Apache Spark"
+    - "Apache Airflow"
+    - "Snowflake"
+    - "BigQuery"
+    - "TensorFlow"
+    - "PostgreSQL"
+    - "MySQL"
+    - "MongoDB"
+    - "Git"
+    - "Jupyter Notebook"
+    - "Matplotlib"
+    - "Seaborn"
+
+narrative:
+  # Professional headline
+  headline: "Data Analyst with hands-on ML, Power BI dashboards, and full-stack data project experience"
+  # Your story — what makes you unique
+  exit_story: "Final-year B.E. (IT) student at UIET Chandigarh with a strong portfolio of data projects — from building ML pipelines for churn prediction to creating Power BI dashboards with AWS infrastructure. Combines analytical skills (SQL, Python, Tableau) with practical deployment experience (FastAPI, React, AWS EC2). Ready for a full-time data role."
+  # Your top superpowers
+  superpowers:
+    - "SQL + Python for data analysis and manipulation (pandas, NumPy)"
+    - "Power BI & Tableau dashboards that drive business decisions"
+    - "End-to-end ML pipelines (data cleaning → model → API → frontend)"
+    - "AWS deployment experience (EC2 for automated data pipelines)"
+    - "Strong problem-solving — multiple robotics competition wins + hackathon organizer"
+  # Proof points — your actual projects
+  proof_points:
+    - name: "Customer Churn Prediction Web App"
+      url: "https://github.com/dragster56"
+      hero_metric: "Full ML pipeline: 10K records, Keras neural network, FastAPI + React frontend, real-time churn probabilities"
+    - name: "Top 50 Indian Companies Dashboard"
+      url: "https://github.com/dragster56"
+      hero_metric: "End-to-end: Python data extraction → AWS EC2 automation → Power BI dashboard with industry revenue trends"
+    - name: "Sign Language to Text Conversion"
+      url: "https://github.com/dragster56"
+      hero_metric: "MediaPipe + neural network, 97% accuracy on 5K labeled images, 20 FPS real-time processing"
+    - name: "Corporate Finance Site Redesign (Internship)"
+      url: ""
+      hero_metric: "Full front-end redesign at Garg Web Infotech — users find content 30% faster, 25% fewer design revisions"
+
+compensation:
+  target_range: "₹3-8 LPA"           # Fresher range for data roles in India
+  currency: "INR"
+  minimum: "₹2.5 LPA"                # Walk-away number
+  location_flexibility: "Open to relocation to Bangalore, Mumbai, Delhi-NCR, Hyderabad, Pune"
+
+  # India-specific compensation context
+  india_context:
+    ctc_note: "CTC includes basic + HRA + special allowances + PF (12%) + gratuity. In-hand is typically 70-80% of CTC."
+    notice_period_preference: "Immediate joiner (fresher)"
+    wfh_preference: "Open to hybrid or onsite for first role"
+    esop_note: "At startups, evaluate vesting schedule (typically 4 years with 1-year cliff) and liquidation likelihood"
+
+  # Fresher salary benchmarks by role (2026, India)
+  benchmarks:
+    - role: "Data Analyst"
+      range: "₹3-6 LPA"
+      top_companies: "₹5-8 LPA"
+    - role: "BI Analyst"
+      range: "₹3-5 LPA"
+      top_companies: "₹5-7 LPA"
+    - role: "Data Engineer"
+      range: "₹4-8 LPA"
+      top_companies: "₹6-12 LPA"
+    - role: "Analytics Engineer"
+      range: "₹4-7 LPA"
+      top_companies: "₹6-10 LPA"
+    - role: "Data Scientist"
+      range: "₹5-10 LPA"
+      top_companies: "₹8-15 LPA"
+    - role: "ML Engineer"
+      range: "₹5-12 LPA"
+      top_companies: "₹8-18 LPA"
+
+location:
+  country: "India"
+  city: "Chandigarh"
+  timezone: "IST (UTC+5:30)"
+  visa_status: "Indian citizen"
+  relocation: "Open to Bangalore, Mumbai, Delhi-NCR, Hyderabad, Pune, Chennai"
+  tier1_cities:
+    - "Bangalore"
+    - "Mumbai"
+    - "Delhi-NCR"
+    - "Hyderabad"
+    - "Pune"
+    - "Chennai"

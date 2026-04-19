@@ -1,0 +1,351 @@
+# Pipeline — Pending URLs
+
+## Pendientes
+
+<!-- New scan results will be added below -->
+
+<!-- === INDIA SCAN RESULTS (2026-04-20) === -->
+<!-- Indian companies typically use campus hiring, email applications, or JS-heavy career pages -->
+<!-- The entries below are direct application channels discovered via WebSearch -->
+
+<!-- Analytics Pure-Play Companies -->
+- [ ] https://www.mu-sigma.com/career/ | Mu Sigma | Trainee Decision Scientist (Fresher) — Apply via DSRecruitment@mu-sigma.com
+- [ ] https://fractal.ai/careers | Fractal Analytics | Imagineer Program (Fresher Data Analyst/Scientist)
+- [ ] https://www.tigeranalytics.com/careers | Tiger Analytics | Trainee Analyst / Associate (Fresher)
+- [ ] https://www.latentview.com/careers | LatentView Analytics | Analyst / Associate (Fresher, Chennai/Bangalore)
+- [ ] https://www.sigmoid.com/careers | Sigmoid | Data Engineer / Analyst (Fresher)
+
+<!-- Indian Startups -->
+- [ ] https://flipkart.turbohire.co/careerpage/4d757ba0-3d57-448a-b82c-238ed87ac90f | Flipkart | Data Analyst / Data Engineer (Check TurboHire portal)
+- [ ] https://careers.swiggy.com | Swiggy | Data Analyst / ML Engineer (Campus/Off-campus)
+- [ ] https://www.zomato.com/careers | Zomato | Data Analyst / Analytics (Gurugram)
+- [ ] https://www.zeptonow.com/careers | Zepto | Data Analyst / Data Scientist (Mumbai)
+- [ ] https://cred.club/careers | CRED | Data Analyst / Analytics (Bangalore)
+- [ ] https://groww.in/careers | Groww | Data Analyst / Data Engineer (Bangalore)
+- [ ] https://www.phonepe.com/careers | PhonePe | Data Analyst / Data Scientist (Bangalore)
+- [ ] https://meesho.io/jobs | Meesho | Data Analyst / Analytics Engineer (Bangalore)
+
+<!-- SaaS & IT -->
+- [ ] https://www.freshworks.com/company/careers/ | Freshworks | Data Analyst / BI Analyst (Chennai)
+- [ ] https://careers.zohocorp.com/ | Zoho | Data Analyst / Product Analytics (Chennai)
+- [ ] https://www.thoughtworks.com/careers | ThoughtWorks India | Data Engineer / Analyst
+- [ ] https://www.accenture.com/in-en/careers | Accenture India | Data Analyst / Associate Analyst (Fresher, HackerRank screening)
+- [ ] https://jobs2.deloitte.com/in/en | Deloitte India USI | Analyst / Data Analyst (Fresher)
+
+<!-- Indian Job Portals (aggregate listings) -->
+- [ ] https://www.naukri.com/data-analyst-jobs?experience=0-2 | Naukri | Data Analyst roles (0-2 yrs, India-wide)
+- [ ] https://www.naukri.com/data-engineer-jobs?experience=0-2 | Naukri | Data Engineer roles (0-2 yrs, India-wide)
+- [ ] https://internshala.com/jobs/data-analyst-jobs | Internshala | Data Analyst (Fresher)
+- [ ] https://www.linkedin.com/jobs/search/?keywords=Data%20Analyst&location=India&f_E=2 | LinkedIn India | Data Analyst (Entry Level)
+
+- [ ] https://jobs.ashbyhq.com/bland/d2e08077-61f0-4810-bc72-3efd7944647b | Bland AI | Machine Learning Researcher, Audio
+- [ ] https://jobs.ashbyhq.com/bland/d8199cb9-04e8-4638-ad03-b93fb189034d | Bland AI | Machine Learning Engineer, TTS Systems
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b081fafb-3659-4bf6-8e87-eb5ccc3ff234 | ElevenLabs | Enterprise Solutions Engineer - Spain
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6848ece5-1ce5-4ab4-9dd6-0704cd0f8ecd | ElevenLabs | Deployment Strategist - Spain
+- [ ] https://jobs.ashbyhq.com/elevenlabs/1034a604-b714-428b-a9fd-fa8c0cd795cf | ElevenLabs | Enterprise Account Executive - Spain
+- [ ] https://jobs.ashbyhq.com/elevenlabs/3178581d-ea70-4dee-b018-2ce2d2a18bbe | ElevenLabs | AI Creative Producer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/4d12e97f-e637-49f1-a39c-7f32d6d364bb | ElevenLabs | Data Operations 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/7664e3c4-2336-4d1a-90cf-91d1268de10d | ElevenLabs | Forward Deployed Engineer - Software Engineer - Spain
+- [ ] https://jobs.ashbyhq.com/elevenlabs/2451b957-0ece-4e73-88e4-4196aac0ba86 | ElevenLabs | AI Creative Producer - Ads
+- [ ] https://jobs.ashbyhq.com/deepgram/9e9ceef6-e22c-4157-906c-91b2da8e22ae | Deepgram | Enterprise Account Executive - AI Platform (B2B Saas/Restaurant Tech Vertical)
+- [ ] https://jobs.ashbyhq.com/deepgram/9a030b32-d671-43e0-a221-4653bb73ba29 | Deepgram | Research Engineer, Machine Learning Systems
+- [ ] https://jobs.ashbyhq.com/deepgram/f424ef6a-c27f-4984-9e77-40a1ad16ae28 | Deepgram | Site Reliability Engineer - AI & ML Infrastructure (Kubernetes, AWS & Terraform)
+- [ ] https://jobs.ashbyhq.com/deepgram/4a873ede-8555-42ae-9ddc-ac89afdd7278 | Deepgram | Software Engineer, Voice Agents / AI - Deepgram for Restaurants
+- [ ] https://jobs.ashbyhq.com/deepgram/12a8a8ea-5a58-4640-8974-ae257b2405a4 | Deepgram | AI/ML Talent Researcher
+- [ ] https://jobs.ashbyhq.com/deepgram/7ced4c1f-4126-44fe-9cf1-da427a9e4e3e | Deepgram | ML Ops Infrastructure Engineer
+- [ ] https://jobs.ashbyhq.com/deepgram/ff392127-1eb6-4fc7-838e-a3243923ba76 | Deepgram | Systems Architect AI/ML Infrastructure
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4796935101 | PolyAI | Forward Deployed AI Engineer (Must be PST timezone)
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4828162101 | PolyAI | Gulf Arabic/Bahraini Language Specialist - Part time contract (Must be based in UK)
+- [ ] https://job-boards.greenhouse.io/humeai/jobs/4775962008 | Hume AI | AI Researcher
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8409168002 | Airtable | AI Agent Architect, Customer Experience
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8434287002 | Airtable | AI Analytics Engineer (AI & Analytics Platform)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8470036002 | Airtable | AI Analytics Engineer (Business Analytics)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8434307002 | Airtable | AI Analytics Engineer (Marketing Analytics)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8124953002 | Airtable | Software Engineer, Data
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7609852 | Intercom | Account Executive, Emerging AI Products
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7824137 | Intercom | AI Infrastructure Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7807509 | Intercom | Business Development Representative, Emerging AI Products 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7672152 | Intercom | Growth Data Scientist 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7524848 | Intercom | GTM Data Analyst - Integrated Campaigns
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183044008 | Anthropic | Anthropic Fellows Program — AI Safety
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5030244008 | Anthropic | Anthropic Fellows Program — AI Security
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183051008 | Anthropic | Anthropic Fellows Program — ML Systems & Performance
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5014500008 | Anthropic | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5116274008 | Anthropic | Applied AI Engineer 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5068226008 | Anthropic | Applied AI Engineer, Beneficial Deployments
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5057647008 | Anthropic | Applied AI Engineer (Digital Natives Business) 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5111942008 | Anthropic | Applied AI Engineer, Life Sciences (Beneficial Deployments)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5073277008 | Anthropic | Applied AI Engineer (Startups)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5127289008 | Anthropic | Business Systems Analyst, Data Enrichment
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5116927008 | Anthropic | Claude Evangelist, Applied AI (Startups)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5044994008 | Anthropic | Commercial Counsel, Datacenters & Construction
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5187486008 | Anthropic | Data Center Electrical Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5159642008 | Anthropic | Data Center Engineer, Resource Efficiency – Compute Supply 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5156057008 | Anthropic | Data Engineer, Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125881008 | Anthropic | Data Science Engineer, Capacity & Efficiency
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5097186008 | Anthropic | Design Engineer, AI Capability Development (Education Labs)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5104754008 | Anthropic | Enterprise Account Executive, Retail
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5149112008 | Anthropic | External Affairs, Australia
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5121561008 | Anthropic | Forward Deployed Engineer, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5079562008 | Anthropic | Forward Deployed Engineer, Applied AI (Federal Civilian) 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4952079008 | Anthropic | Machine Learning Systems Engineer, Research Tools
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4952051008 | Anthropic | Machine Learning Systems Engineer, RL Engineering
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4778843008 | Anthropic | ML Infrastructure Engineer, Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4949336008 | Anthropic | ML/Research Engineer, Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5112486008 | Anthropic | Partner Solutions Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5018472008 | Anthropic | Research Economist, Economic Research
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125083008 | Anthropic | Research Engineer, AI Observability
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5115935008 | Anthropic | Research Engineer, Machine Learning (Reinforcement Learning)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4613568008 | Anthropic | Research Engineer, Machine Learning (Reinforcement Learning) 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5119713008 | Anthropic | Research Engineer, Pretraining
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4938432008 | Anthropic | Research Engineer, Pretraining Scaling
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4938436008 | Anthropic | Research Engineer, Pretraining Scaling - London
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5112018008 | Anthropic | Research Engineer, Production Model Post-Training
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5135168008 | Anthropic | Research Engineer / Research Scientist, Pre-training
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4616971008 | Anthropic | Research Engineer/Research Scientist, Pre-training
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5101433008 | Anthropic | Security Architect, Applied AI 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5109273008 | Anthropic | Software Engineer, Human Data Interface
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5191226008 | Anthropic | Software Engineer, Research Data Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5117581008 | Anthropic | Solutions Architect, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5146028008 | Anthropic | Solutions Architect, Applied AI (Beneficial Deployments)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5192805008 | Anthropic | Solutions Architect, Applied AI (Commercial)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5065835008 | Anthropic | Solutions Architect, Applied AI (Digital Native Business)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5079540008 | Anthropic | Solutions Architect, Applied AI (Federal Civilian)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5140405008 | Anthropic | Solutions Architect, Applied AI (Government Technology)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4977626008 | Anthropic |  Solutions Architect, Applied AI (Industries)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4461444008 | Anthropic | Solutions Architect, Applied AI (Industries)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5079511008 | Anthropic | Solutions Architect, Applied AI (National Security)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5057258008 | Anthropic | Solutions Architect, Applied AI (Startups)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5140403008 | Anthropic | Solutions Architect, Applied AI (State and Local Government, West)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5041299008 | Anthropic | Strategic Account Executive, Retail & Commercial Banking
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5122119008 | Anthropic | Support Operations Specialist, AI Agent Management
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5017903008 | Anthropic | Technical Deployment, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5056499008 | Anthropic | Technical Solutions Specialist, Data Operations
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5149802008 | Anthropic | Transformative AI Research Economist, Economic Research 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5026097008 | Anthropic | UI Software Engineer, Claude.ai Consumer Product 
+- [ ] https://jobs.ashbyhq.com/sierra/0c892d11-9f19-4b8d-9c2b-409346c52b7a | Sierra | Software Engineer, Agent Data Platform
+- [ ] https://jobs.ashbyhq.com/sierra/5ed4bbfa-1c27-4242-be7f-b8dc4ce8c25f | Sierra | Software Engineer, Insights
+- [ ] https://jobs.ashbyhq.com/sierra/e296cc07-99ca-4ec0-a826-8bdcd168fa15 | Sierra | Integrated Campaign Marketer
+- [ ] https://jobs.ashbyhq.com/sierra/39355227-d7a2-4066-b930-2bf2eeebc20c | Sierra | Sales Engineer (Spain)
+- [ ] https://jobs.ashbyhq.com/sierra/1162dcd2-b181-49d5-9316-342cd68acbed | Sierra | Software Engineer, Agent (Thai Speaking)
+- [ ] https://jobs.ashbyhq.com/decagon/c2ea9bd2-7a20-4fbb-b301-5e587415baeb | Decagon | AI Transformation Specialist
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5474915004 | Vercel | Software Engineer, AI SDK
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5808568004 | Vercel | Software Engineer, Dashboard
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5813134004 | Vercel | Software Engineer, Domains
+- [ ] https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297 | n8n | Sr AI Engineer | Remote - Europe | TS/Vue/NodeJS
+- [ ] https://jobs.ashbyhq.com/cohere/acec6038-117b-400b-92e3-0745fbb4cf53 | Cohere | Data Annotation Specialist - German Writer/Translator
+- [ ] https://jobs.ashbyhq.com/cohere/df93ec57-d51e-4466-93be-4878c5fda4da | Cohere | Software Engineer - Applied ML - UK Public Sector
+- [ ] https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9 | Cohere | Applied AI Engineer – Agentic Workflows
+- [ ] https://jobs.ashbyhq.com/cohere/2c669d85-e3d7-43f1-aa43-be33e12ff8a5 | Cohere | Machine Learning Intern/Co-op  (Spring/Summer 2026)
+- [ ] https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae | Cohere | Applied AI Engineer - Agentic Workflows (Singapore)
+- [ ] https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997 | Cohere | Forward Deployed Engineer, Sovereign AI
+- [ ] https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a | Cohere | Applied AI Engineer – Agentic Workflows (Korea)
+- [ ] https://jobs.ashbyhq.com/cohere/34533921-d731-4529-89e7-cf4939055a20 | Cohere | Data Annotation Specialist, Simplified Chinese / Mandarin Writer
+- [ ] https://jobs.ashbyhq.com/cohere/362c4904-7fa4-4793-b27b-070e6d70b4c5 | Cohere | Data Annotation Specialist, Hindi Writer/Translator
+- [ ] https://jobs.ashbyhq.com/cohere/9baccd88-c051-474f-bfe8-6867fca54cee | Cohere | Data Engineer
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5969145004 | Arize AI | AI Application Engineer
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5661972004 | Arize AI | AI Engineer, Instrumentation
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5793354004 | Arize AI | AI Sales Engineer, EMEA
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5792327004 | Arize AI | AI Sales Engineer, US
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5797408004 | Arize AI | AI Solutions Engineer 
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | AI Solutions Engineer, EMEA
+- [ ] https://jobs.ashbyhq.com/langchain/74e5f9f4-e44a-4594-ba26-abdf71bf287d | LangChain | Python OSS Engineer 
+- [ ] https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6 | LangChain | FullStack Engineer,  AI Observability & Evals Platform (LangSmith)
+- [ ] https://jobs.ashbyhq.com/langchain/c75915ba-a32b-4e17-873d-19b47564170d | LangChain | Fullstack Software Engineer, Applied AI
+- [ ] https://jobs.ashbyhq.com/langchain/defd4191-7a83-464c-a297-91ebd52981e1 | LangChain | Education Engineer, Machine Learning
+- [ ] https://jobs.ashbyhq.com/DeepL/dc59654e-c78d-4ef9-b99d-a961b86ba5c3 | DeepL | Account Executive - Enterprise (Kansai) 関西担当営業
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4605215005 | Glean | Machine Learning Engineer, AI Assistant & Autonomous AI Agents
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4669417005 | Glean | Machine Learning Engineer, LLM Evals & Observability 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006735005 | Glean | Machine Learning Engineer, Search Quality
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4577381005 | Glean | Product Designer, AI Products
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4501783005 | Glean | Software Engineer, AI Infrastructure
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4605446005 | Glean | Software Engineer, AI & Security
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4637208005 | Glean | Software Engineer, Data Foundations
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659229005 | Glean | Software Engineer, Insights
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4012745005 | Glean | Software Engineer, Machine Learning
+- [ ] https://helsing.ai/jobs/4334849101?gh_jid=4334849101 | Helsing | AI Research Engineer - AI Safety
+- [ ] https://helsing.ai/jobs/4334842101?gh_jid=4334842101 | Helsing | AI Research Engineer -  Computer Vision
+- [ ] https://helsing.ai/jobs/4766708101?gh_jid=4766708101 | Helsing | AI Research Engineer - Foundation Models
+- [ ] https://helsing.ai/jobs/4778869101?gh_jid=4778869101 | Helsing | AI Research Engineer - ML Engineering
+- [ ] https://helsing.ai/jobs/4676357101?gh_jid=4676357101 | Helsing | AI Research Engineer - Reinforcement Learning
+- [ ] https://helsing.ai/jobs/4423924101?gh_jid=4423924101 | Helsing | AI Research Engineer - Robotics
+- [ ] https://helsing.ai/jobs/4372802101?gh_jid=4372802101 | Helsing | AI Research Engineer - Signal Processing
+- [ ] https://helsing.ai/jobs/4312517101?gh_jid=4312517101 | Helsing | AI Working Student - Computer Vision
+- [ ] https://helsing.ai/jobs/4765422101?gh_jid=4765422101 | Helsing | Chief Mission Systems Engineer - Space - DE
+- [ ] https://helsing.ai/jobs/4516967101?gh_jid=4516967101 | Helsing | Deployed AI Engineer
+- [ ] https://helsing.ai/jobs/4844177101?gh_jid=4844177101 | Helsing | Material Data Specialist
+- [ ] https://helsing.ai/jobs/4803015101?gh_jid=4803015101 | Helsing | People Business Partner France & Spain - Fixed-term contract (6 months)
+- [ ] https://helsing.ai/jobs/4741565101?gh_jid=4741565101 | Helsing | Software Engineer - Airborne Mission Systems
+- [ ] https://helsing.ai/jobs/4741571101?gh_jid=4741571101 | Helsing | Software Engineer - Autonomous Air Systems
+- [ ] https://helsing.ai/jobs/4741219101?gh_jid=4741219101 | Helsing | Software Engineer - Autonomous Air System V&V
+- [ ] https://helsing.ai/jobs/4741224101?gh_jid=4741224101 | Helsing | Software Engineer - Frontend Autonomous Air System V&V
+- [ ] https://helsing.ai/jobs/4741242101?gh_jid=4741242101 | Helsing | Software Engineer - Ground to Air HMI
+- [ ] https://helsing.ai/jobs/4787205101?gh_jid=4787205101 | Helsing | Systems Engineer - Command and Control (Air)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7493307003?gh_jid=7493307003 | Celonis | Account Executive - Retail
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7626966003?gh_jid=7626966003 | Celonis | AI & Management Consulting Intern (Value Engineering - DACH Market)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7681593003?gh_jid=7681593003 | Celonis | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7635542003?gh_jid=7635542003 | Celonis | Applied AI (Solution Consultant)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7614493003?gh_jid=7614493003 | Celonis | Applied AI Value Engineer 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7662738003?gh_jid=7662738003 | Celonis | Associate Applied AI Engineer (APAC) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7662718003?gh_jid=7662718003 | Celonis | Associate Applied AI Engineer (Japan) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7669112003?gh_jid=7669112003 | Celonis | Associate Applied AI Engineer (Madrid/Spain) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7627647003?gh_jid=7627647003 | Celonis | Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7680769003?gh_jid=7680769003 | Celonis | Intern Value Advisory & AI Consulting
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7599055003?gh_jid=7599055003 | Celonis | Training Localization Intern - Japanese Speaking
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7544101 | Contentful | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7544099 | Contentful | Data Engineer
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7548713 | Contentful | Data Scientist
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4719611101 | Speechmatics | Data Engineer
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4660432101 | Speechmatics | Machine Learning Engineer
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4838230101 | Speechmatics | ML Platform Engineer
+- [ ] https://getyourguide.careers/jobs/7694621?gh_jid=7694621 | GetYourGuide | Data Engineer, Growth Data Engineering
+- [ ] https://getyourguide.careers/jobs/7694619?gh_jid=7694619 | GetYourGuide | Data Engineer, Traveler Data Engineering
+- [ ] https://getyourguide.careers/jobs/6687709?gh_jid=6687709 | GetYourGuide | Legal Trainee (Rechtsreferendar)
+- [ ] https://getyourguide.careers/jobs/7748640?gh_jid=7748640 | GetYourGuide | Vendor Master Data Specialist (Accounts Payable)
+- [ ] https://traderepublic.com/en-de/about?jobId=6589276003&gh_jid=6589276003 | Trade Republic | Analytics Engineer  (Berlin)
+- [ ] https://traderepublic.com/en-de/about?jobId=7626425003&gh_jid=7626425003 | Trade Republic | Analytics Engineering (London) 
+- [ ] https://traderepublic.com/en-de/about?jobId=7623520003&gh_jid=7623520003 | Trade Republic | Analytics Engineering (Paris) 
+- [ ] https://careers.hellofresh.com/global/en/job/7739124?gh_jid=7739124 | HelloFresh | Account Executive, Retail Media
+- [ ] https://careers.hellofresh.com/global/en/job/7559778?gh_jid=7559778 | HelloFresh | Data Engineer, Global Data Products
+- [ ] https://careers.hellofresh.com/global/en/job/7606813?gh_jid=7606813 | HelloFresh | Data Engineer, HQ
+- [ ] https://careers.hellofresh.com/global/en/job/7693062?gh_jid=7693062 | HelloFresh | Finance Executive (Supply Chain)
+- [ ] https://careers.hellofresh.com/global/en/job/7553086?gh_jid=7553086 | HelloFresh | Fulfillment Operations Specialist
+- [ ] https://careers.hellofresh.com/global/en/job/7436497?gh_jid=7436497 | HelloFresh | Fulfillment Technology Analyst - Sydney DC (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/7704587?gh_jid=7704587 | HelloFresh | Growth Strategy Data Analyst - Intern (M/F/N)
+- [ ] https://careers.hellofresh.com/global/en/job/7387627?gh_jid=7387627 | HelloFresh | [HelloConnect] Product Data Analyst (SQL/Python)
+- [ ] https://careers.hellofresh.com/global/en/job/7777926?gh_jid=7777926 | HelloFresh | Junior Supply Chain Coordinator
+- [ ] https://careers.hellofresh.com/global/en/job/7752631?gh_jid=7752631 | HelloFresh | Junior Supply Chain Planner (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/7593660?gh_jid=7593660 | HelloFresh | Koordinator für Arbeitssicherheit und Notfallmanagement (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7686668?gh_jid=7686668 | HelloFresh | Machine Learning Engineer, Growth
+- [ ] https://careers.hellofresh.com/global/en/job/7605901?gh_jid=7605901 | HelloFresh | Maintenance Fitter
+- [ ] https://careers.hellofresh.com/global/en/job/7775119?gh_jid=7775119 | HelloFresh | Maintenance Planner
+- [ ] https://careers.hellofresh.com/global/en/job/7774991?gh_jid=7774991 | HelloFresh | Maintenance Planner/Scheduler 
+- [ ] https://careers.hellofresh.com/global/en/job/7776415?gh_jid=7776415 | HelloFresh | Maintenance Technician I 
+- [ ] https://careers.hellofresh.com/global/en/job/7813114?gh_jid=7813114 | HelloFresh | Maintenance Technician II
+- [ ] https://careers.hellofresh.com/global/en/job/7792121?gh_jid=7792121 | HelloFresh | Maintenance Technician III 
+- [ ] https://careers.hellofresh.com/global/en/job/7428732?gh_jid=7428732 | HelloFresh | Marketing Data Analyst - Actives
+- [ ] https://careers.hellofresh.com/global/en/job/7818196?gh_jid=7818196 | HelloFresh | Multi Skilled Maintenance Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/7592342?gh_jid=7592342 | HelloFresh | Operations Trainer 
+- [ ] https://careers.hellofresh.com/global/en/job/7559753?gh_jid=7559753 | HelloFresh | Packaging Reporting Specialist
+- [ ] https://careers.hellofresh.com/global/en/job/7795996?gh_jid=7795996 | HelloFresh | Product Analyst (all genders) 
+- [ ] https://careers.hellofresh.com/global/en/job/7742572?gh_jid=7742572 | HelloFresh | Quality and Training Officer
+- [ ] https://careers.hellofresh.com/global/en/job/7649239?gh_jid=7649239 | HelloFresh | Schichtleiter Maintenance (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7682268?gh_jid=7682268 | HelloFresh | Supply Chain Material Planner
+- [ ] https://careers.hellofresh.com/global/en/job/7703792?gh_jid=7703792 | HelloFresh | Teamleiter Instandhaltung – Schichtbetrieb (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7784793?gh_jid=7784793 | HelloFresh | [YF-ANZ] Maintenance Electrician
+- [ ] https://jobs.ashbyhq.com/lakera.ai/dbd9fe27-73a8-42e5-9291-0475cd86ba46 | Lakera | Solutions Engineer (Dubai)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/64cd7920-fec3-4e97-8688-e592cc8f5898 | Lakera | Solutions Engineer (Mumbai)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/2c533f1b-4fe3-40da-a3e2-4627977cbda4 | Lakera | Enterprise Account Executive, UAE (Dubai)
+- [ ] https://jobs.ashbyhq.com/cradlebio/ae6e6352-28e5-4b2f-b1d9-da7da078f011 | Cradle | Backend Software Engineer, Python
+- [ ] https://jobs.ashbyhq.com/cradlebio/cbf8f13a-0606-4553-bc3c-2d18ece58b2a | Cradle | Solutions Consultant, Machine Learning
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=7719338 | Scandit | Computer Vision/Machine Learning Intern
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=7391112 | Scandit | Computer Vision/Machine Learning Summer Job 2026
+- [ ] https://sumup.com/careers/positions/8364208002?gh_jid=8364208002 | SumUp | AML Analyst II
+- [ ] https://sumup.com/careers/positions/8427282002?gh_jid=8427282002 | SumUp | AML Investigator
+- [ ] https://sumup.com/careers/positions/7875334002?gh_jid=7875334002 | SumUp | Commercial(e) Terrain Freelance – Amiens
+- [ ] https://sumup.com/careers/positions/7875332002?gh_jid=7875332002 | SumUp | Commercial(e) Terrain Freelance – Calais 
+- [ ] https://sumup.com/careers/positions/7875302002?gh_jid=7875302002 | SumUp | Commercial(e) terrain (freelance) – Dunkerque
+- [ ] https://sumup.com/careers/positions/8421864002?gh_jid=8421864002 | SumUp | Commercial(e) Terrain (H/F) – Lille et sa métropole CDI
+- [ ] https://sumup.com/careers/positions/8390715002?gh_jid=8390715002 | SumUp | Commercial(e) Terrain (H/F) – Metz CDI
+- [ ] https://sumup.com/careers/positions/8390725002?gh_jid=8390725002 | SumUp | Commercial(e) Terrain (H/F) – Mulhouse CDI
+- [ ] https://sumup.com/careers/positions/8467370002?gh_jid=8467370002 | SumUp | Commercial(e) Terrain Indépendant(e) 
+- [ ] https://sumup.com/careers/positions/8354978002?gh_jid=8354978002 | SumUp | Commercial(e) Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/7927596002?gh_jid=7927596002 | SumUp |  Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8032073002?gh_jid=8032073002 | SumUp | Commercial Terrain - Indépendant (Freelance)
+- [ ] https://sumup.com/careers/positions/8511537002?gh_jid=8511537002 | SumUp | Commercial Terrain - Indépendant (Freelance)- Avignon
+- [ ] https://sumup.com/careers/positions/8505515002?gh_jid=8505515002 | SumUp | Commercial Terrain - Indépendant (Freelance)- Bordeaux
+- [ ] https://sumup.com/careers/positions/8424249002?gh_jid=8424249002 | SumUp | Commercial Terrain Indépendant (Freelance)- Corse
+- [ ] https://sumup.com/careers/positions/8367883002?gh_jid=8367883002 | SumUp | Complaints and Compliance Specialist with Dutch (NL)
+- [ ] https://sumup.com/careers/positions/8498277002?gh_jid=8498277002 | SumUp | Data Analyst - CoreOps 
+- [ ] https://sumup.com/careers/positions/8448674002?gh_jid=8448674002 | SumUp | Data Analyst - Finance
+- [ ] https://sumup.com/careers/positions/8168326002?gh_jid=8168326002 | SumUp | Data & Insights Analyst
+- [ ] https://sumup.com/careers/positions/8458929002?gh_jid=8458929002 | SumUp | Data Scientist
+- [ ] https://sumup.com/careers/positions/8478931002?gh_jid=8478931002 | SumUp | Field Sales Consultant / Commerciale Terrain
+- [ ] https://sumup.com/careers/positions/7810159002?gh_jid=7810159002 | SumUp |  Field Sales Consultant - Self-employed (commission-only)
+- [ ] https://sumup.com/careers/positions/7810129002?gh_jid=7810129002 | SumUp | Field Sales Consultant - Self-employed (commission-only)
+- [ ] https://sumup.com/careers/positions/8437654002?gh_jid=8437654002 | SumUp | Junior People Analytics
+- [ ] https://sumup.com/careers/positions/8420782002?gh_jid=8420782002 | SumUp | Reporting Analyst 
+- [ ] https://sumup.com/careers/positions/8495675002?gh_jid=8495675002 | SumUp | SumUp Next — Business Analytics (Estágio)
+- [ ] https://sumup.com/careers/positions/8458937002?gh_jid=8458937002 | SumUp | Training & Enablement Assistant Analyst - LatAm
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8387015002 | Wayve | Applied Scientist, Controllable GAIA
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8105900002 | Wayve | Machine Learning Engineer
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8435254002 | Wayve | Machine Learning Engineer, App SW
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8463919002 | Wayve | Machine Learning Engineer, AV Engineering 
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5578430004 | Isomorphic Labs | ML Research Engineer, London
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5704870004 | Isomorphic Labs | Research Scientist (Applied LLMs), London
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5460704004 | Isomorphic Labs | Research Scientist (Machine Learning), Lausanne
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5224363004 | Isomorphic Labs | Research Scientist (Machine Learning), London
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4749980101 | PhysicsX | Data Scientist / Algorithm Engineer
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4788997101 | PhysicsX | Software Engineer - AI Workbench 
+- [ ] https://jobs.ashbyhq.com/synthesia/b1f960fd-f07a-4788-8e5c-8a7c62c77fb2 | Synthesia | Software Engineer, Machine Learning
+- [ ] https://jobs.ashbyhq.com/synthesia/a40cbbc3-6be7-48a2-b8c7-1f09a1c5aa43 | Synthesia | Commercial Data Scientist
+- [ ] http://stability.ai/careers?gh_jid=4712826101 | Stability AI | Generative AI Inference Engineer
+- [ ] http://stability.ai/careers?gh_jid=4770256101 | Stability AI | Multimodal Generative AI Researcher
+- [ ] https://jobs.ashbyhq.com/faculty/168cb0e1-daea-42d5-ac09-e12a61cf72ca | Faculty | Machine Learning Engineer 
+- [ ] https://jobs.ashbyhq.com/faculty/5e02b968-71cd-4db4-9739-75c7b1668dc1 | Faculty | Data Scientist 
+- [ ] https://jobs.ashbyhq.com/lovable/cfef6fe1-e0c9-4139-8618-b51bfb1dc683 | Lovable | Data Platform Engineer
+- [ ] https://jobs.ashbyhq.com/lovable/22169279-acc3-4133-96ab-6f525b16fc8e | Lovable | Data Scientist
+- [ ] https://jobs.ashbyhq.com/lovable/e27e931e-79f3-483a-b543-57e42633ac5c | Lovable | Fullstack Engineer - AI Code Security
+- [ ] https://jobs.ashbyhq.com/lovable/0c2305f7-6174-4f42-a22d-c8a39fa28c76 | Lovable | Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/lovable/a804b92f-cd40-421a-8054-1cefb18f8712 | Lovable | Analytics Engineer - Marketing
+- [ ] https://jobs.ashbyhq.com/lovable/081be99e-95bf-4992-9cf2-d16371635ac1 | Lovable | Analytics Engineer - Finance
+- [ ] https://jobs.ashbyhq.com/lovable/9f403111-c1e2-4f05-92a1-5a85cc5c8f61 | Lovable | Data Scientist - Finance
+- [ ] https://jobs.ashbyhq.com/lovable/84f8b1ba-1b6c-4ee8-a822-f2f2ba095bef | Lovable | Product Experience Captain, Americas
+- [ ] https://jobs.ashbyhq.com/legora/f81a4b5e-7ef3-4946-a147-f6c0645e98ca | Legora | Software Engineer (AI Focus)
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4108094101 | Amplemarket | Spontaneous Application - Data Engineer
+- [ ] https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2 | Perplexity | Internship - Search Machine Learning Engineer
+- [ ] https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c | Perplexity | Internship - Machine Learning Research Engineer
+- [ ] https://jobs.ashbyhq.com/claylabs/9b008b26-189b-45cf-83d8-fee117d32874 | Clay Labs | Software Engineer, Developer Experience (AI)
+- [ ] https://jobs.ashbyhq.com/claylabs/84eb158a-b39d-4048-9c9f-66fc55a24224 | Clay Labs | Data Partnerships
+- [ ] https://jobs.ashbyhq.com/claylabs/460aba5c-688b-4153-a2ec-395a572c7bde | Clay Labs | Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/claylabs/31d3597f-400e-4c12-9692-a5fb6f5e0d03 | Clay Labs | GTM Data Analyst
+- [ ] https://jobs.ashbyhq.com/claylabs/fbdc14a3-d727-400f-8eb5-13481a0b920f | Clay Labs | Partner Marketing, Data Marketplace 
+- [ ] https://jobs.ashbyhq.com/workos/026de5bc-8899-4b2d-b71e-470263295597 | WorkOS | Product Engineer - Dashboard & Admin Portal
+- [ ] https://jobs.ashbyhq.com/workos/afdd651f-c97a-4ba2-88af-c790eb9e1a1d | WorkOS | GTM - AI Native Sales
+- [ ] https://jobs.ashbyhq.com/workos/599978f1-c834-4e42-aa44-23bc47518fad | WorkOS | Database Reliability Engineer
+- [ ] https://jobs.ashbyhq.com/workos/5e650527-d8dd-413a-9cfb-d7d68143274b | WorkOS | Software Engineer - Applied AI
+- [ ] https://jobs.ashbyhq.com/supabase/f18b1173-51c3-4ff6-bcda-89f8111931f4 | Supabase | Database Support Engineer (AMER)
+- [ ] https://jobs.ashbyhq.com/supabase/3889002e-536e-4046-a330-70e942b0cc96 | Supabase | Database Support Engineer (EMEA)
+- [ ] https://jobs.ashbyhq.com/supabase/62945518-2468-4cf5-9f36-904b60f75183 | Supabase | Database Support Engineer (APAC)
+- [ ] https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5 | Supabase | Platform Engineer: Data
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5823552004 | Hightouch | AI Operations, GTM
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5618829004 | Hightouch | AI Strategy Consultant 
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5726252004 | Hightouch | Enterprise Account Executive -Mountain West
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5718912004 | Hightouch | Forward Deployed Marketing Data Scientist
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5542602004 | Hightouch | Software Engineer, AI Agents
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5809895004 | Hightouch | Software Engineer - AI Productivity
+- [ ] https://jobs.lever.co/pigment/0aede960-d9cd-45c1-92e4-82e3cb3b2ae2 | Pigment | Data Engineer (Growth Team)
+- [ ] https://jobs.lever.co/qonto/06c1f0cc-8f6f-4479-b55d-9f2e22b52b75 | Qonto | AML Analyst- Italian Market (First line of defense, transaction monitoring)
+- [ ] https://jobs.lever.co/qonto/8379631a-b473-4f55-8669-e714152749e9 | Qonto | AML IT Intern 🇮🇹
+- [ ] https://jobs.lever.co/qonto/261839f8-e2c6-4cb7-9b3d-36c40e91412a | Qonto | Customer Care Onboarding - Netherlands 🇳🇱 and Belgium 🇧🇪 Dutch & Flemish Speaker
+- [ ] https://jobs.lever.co/qonto/9585d054-ac1c-407d-94d0-598c4f9280b3 | Qonto | Events Intern - Spain 🇪🇸
+- [ ] https://jobs.lever.co/qonto/5e9f184e-0785-41d3-9a41-28b4dc317c87 | Qonto | Product Engineer - Accounting Domain (Frontend - React)
+- [ ] https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488 | Palantir | Forward Deployed AI Engineer
+- [ ] https://jobs.lever.co/palantir/c80690ca-704b-46c2-9d95-e4f6e98ce4e2 | Palantir | Production Engineer - Database Operations
+- [ ] https://jobs.lever.co/spotify/6b8e77f1-666d-4241-a988-f1ad78272ec1 | Spotify | Associate Data Scientist - User Fraud
+- [ ] https://jobs.lever.co/spotify/66492688-d5b0-4cf8-b1a4-4a715157edd9 | Spotify | Backend Engineer  - Data Infrastructure
+- [ ] https://jobs.lever.co/spotify/baa87498-b0a3-4ac5-b197-a224e93c8a07 | Spotify | Backend Engineer - Data Platform
+- [ ] https://jobs.lever.co/spotify/cb90282e-0917-4219-99fd-8b5d7d5e3050 | Spotify | Data Analyst II – Performance Optimization Squad
+- [ ] https://jobs.lever.co/spotify/87ac8be9-799d-414f-b855-70a1cf2729b4 | Spotify | Data Engineer - Gen AI - Music
+- [ ] https://jobs.lever.co/spotify/5d36b6f4-e89d-4a01-985c-59a184080440 | Spotify | Data Engineer I - Revenue
+- [ ] https://jobs.lever.co/spotify/515f45a4-a750-4121-87e7-5288c0c0fbf3 | Spotify | Data Engineer II - SRC - Music
+- [ ] https://jobs.lever.co/spotify/1a78f396-2295-4fa0-8c44-9a6cdd21b1b9 | Spotify | Data Scientist - AdCo Product Insights
+- [ ] https://jobs.lever.co/spotify/5cf8c17c-ad44-463c-9da1-9cf4739b7c4f | Spotify | Data Scientist - Company Planning and Execution (CPE)
+- [ ] https://jobs.lever.co/spotify/cc60212e-e20b-407e-a877-32b3d8dfe11a | Spotify | Data Scientist - Content Understanding
+- [ ] https://jobs.lever.co/spotify/063a7916-cd2b-4e61-a332-30364edf5199 | Spotify | Data Scientist - Growth Analytics (Performance Marketing)
+- [ ] https://jobs.lever.co/spotify/c4a86464-a90d-4e16-9890-1f79355a41ac | Spotify | Data Scientist - Music Mission
+- [ ] https://jobs.lever.co/spotify/71c28dec-d4a1-4e27-bb9b-1dab4a616ce5 | Spotify | Data Scientist - Platform Mission
+- [ ] https://jobs.lever.co/spotify/1bd333fe-a039-4aa7-9a84-941296bbe86b | Spotify | Data Scientist - Subscriptions
+- [ ] https://jobs.lever.co/spotify/fc593885-54e1-4807-a67c-77c1d3412cec | Spotify | Data Scientist II - Platform Mission
+- [ ] https://jobs.lever.co/spotify/a95830ad-c11f-49da-85a7-04ce47ce532c | Spotify | Data Scientist, Subscriptions
+- [ ] https://jobs.lever.co/spotify/ec70e9a0-16b4-4ee9-b7cf-b213f46ef9e2 | Spotify | Fullstack AI Engineer - IT Platform Development
+- [ ] https://jobs.lever.co/spotify/e200d025-4cff-4eb8-afa4-6680e31c43a2 | Spotify | Machine Learning Engineer
+- [ ] https://jobs.lever.co/spotify/4972fad1-f3d8-49ef-9d41-d132b5281942 | Spotify | Machine Learning Engineer, Personalization
+- [ ] https://jobs.lever.co/spotify/2ea95c25-216a-4215-973f-83ef8c8859f5 | Spotify | Product Designer - AI Partnerships
+- [ ] https://jobs.lever.co/spotify/153a90f2-5762-411a-a283-5c8efae519ea | Spotify | Quantitative User Researcher - Music Mission
+- [ ] https://jobs.lever.co/spotify/9f7d47cc-8e07-4637-9f38-68db462a72e9 | Spotify | Sales Trainer, LATAM
+
+## Procesadas
+
+<!-- Evaluated URLs move here -->
